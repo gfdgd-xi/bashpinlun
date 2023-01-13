@@ -1,0 +1,2 @@
+此版大大增强用户易用性，供用户根据特定的需求选择使用。WPS Office个人版包含WPS文字、WPS表格、WPS演示三大功能模块，与Microsoft Word、Microsoft Excel、MS PowerPoint一一对应，应用XML数据交换技术，无障碍兼容doc.xls.ppt等文件格式，你可以直接保存和打开 Microsoft Word、Excel 和 PowerPoint 文件，也可以用 Microsoft Office轻松编辑WPS系列文档。
+——发布时间：2023/1/13 14:22:49
