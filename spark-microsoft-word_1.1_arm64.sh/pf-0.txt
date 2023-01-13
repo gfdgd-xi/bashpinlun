@@ -1,0 +1,2 @@
+一个使用 deepin-wine6 stable 打包的 Microsoft Office Word 2007程序
+——发布时间：2023/1/13 13:49:44

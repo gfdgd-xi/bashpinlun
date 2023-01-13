@@ -1,0 +1,6 @@
+使用 deepin-wine6 打包的 Microsoft Office PowerPoint 2007
+更新内容：
+1、更换为 deepin wine 6、spark dwine helper
+2、支持卸载后自动删除容器
+3、更规范的打包
+——发布时间：2023/1/13 13:50:44

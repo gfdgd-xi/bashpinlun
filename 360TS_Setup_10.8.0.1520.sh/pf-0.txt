@@ -1,0 +1,5 @@
+如何安装 Wine7？
+方法一：安装星火应用商店，然后安装Wine7应用或者在终端输入sudo aptss install spark-wine7-devel
+方法二：安装WineHQ官方的Wine，可以在程序菜单栏：程序=》安装WineHQ 进行安装
+方法三：在程序主界面菜单栏：程序=》安装更多Wine 进行安装
+——发布时间：2023/1/13 13:46:0
