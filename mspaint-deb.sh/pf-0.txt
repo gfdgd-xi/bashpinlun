@@ -1,0 +1,6 @@
+此安装包是在深度社区找到的，已经上传到星火应用商店了，可以到星火应用商店安装
+deepin/UOS 官方应用商店有更高版本的 Windows 画图
+安装包来源:https://bbs.deepin.org/post/218516
+星火应用商店分享链接:spk://store/image_graphics/com.microsoft.paint.deepin
+※这里只为转载
+——发布时间：2023/1/13 14:30:50
