@@ -1,0 +1,4 @@
+此 Live CD 基于 deepin 20.8 和原 Live CD 2.0，安装部分维护工具（如果还有需要添加的就说）， @xchngg的参考文档，本 Live CD 1.2.1 及以前版本使用该方案打包，测试 Ventoy 在 Legacy 和 UEFT 模式下均可运行此 Live CD，有常用驱动（网卡、显卡、声卡），理论上能运行 deepin 20.8 均可运行
+install、full 用户/root Password为：123456
+tiny、mini root Password未知
+——发布时间：2023/1/13 21:58:20
